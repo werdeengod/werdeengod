@@ -1,7 +1,9 @@
 ### Hi there 👋
-
 #### I am a college student majoring in web development
 
-- 🌱 Also currently learning html/css markup languages and python/javascript programming languages in my spare time
+- 🌱 I’m currently learning markup languages html/css and the programming languages python/javascript 
+
+#### Connecting with me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/yaOwner) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/man_ll_0)  
 
 
