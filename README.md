@@ -1,3 +1,4 @@
 # Мои проекты
-- [УАвиаК Расписание](https://t.me/UaviakTimetableBot) - расписание Ульяновского Авиационного колледжа через телеграм бота
-- [Сетевой город](https://t.me/UaviakTimetableBot) - Библиотека для работы с сетевым городом
+- [uaviak-parser](https://t.me/UaviakTimetableBot) - Расписание Ульяновского Авиационного колледжа
+- [networkspoapi](https://t.me/UaviakTimetableBot) - Библиотека для работы с сетевым городом
+- [pycasino](https://t.me/werdeengod) - Библиотека развлекательных игр
