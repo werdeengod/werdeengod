@@ -6,7 +6,12 @@
 - [FunpayAPI](https://github.com/werdeengod/funpay-api) - Библиотека для работы с сайтом funpay.com
 
 ## Мой стек
-- Python, TypeScript, PHP, HTML, SCSS
+- Python, TypeScript + React, PHP, HTML, SCSS
 - Git, Bash, Ubuntu
 - PostgreSQL, MongoDB
 - REST API, SOLID, DRY, KISS
+
+## Обо мне
+Студент УАвиаК-МЦК 3 курса в отделении "Информационные системы и программирование"
+<br>
+В свободное от учебы время практикуюсь программировать
