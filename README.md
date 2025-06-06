@@ -1,8 +1,8 @@
 ## Мои проекты
-- [UTimetableBot](https://t.me/UaviakTimetableBot) - Telegram бот для колледжа УАвиаК-МЦК
+- [UTimetableBot](https://t.me/UaviakTimetableBot) - TELEGRAM бот для колледжа УАвиаК-МЦК
+- [WorldPoliticsBot](https://t.me/werdeengod) - Военно-экономическая игра на DISCORD API
 - [NetSPOApi](https://github.com/werdeengod/NetSPOApi) - Библиотека для работы с сетевым городом АО "ИРТех"
 - [pycasino](https://t.me/werdeengod) - Библиотека развлекательных игр
-- [world-politics-bot](https://t.me/werdeengod) - Военно-экономическая игра
 - [FunpayAPI](https://github.com/werdeengod/funpay-api) - Библиотека для работы с сайтом funpay.com
 
 ## Мой стек
