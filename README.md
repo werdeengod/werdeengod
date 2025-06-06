@@ -1,5 +1,5 @@
 ## Мои проекты
-- [UTimetableBot](https://t.me/UaviakTimetableBot) - TELEGRAM бот для колледжа УАвиаК-МЦК
+- [UTimetableBot](https://t.me/UaviakTimetableBot) - Бот для колледжа УАвиаК-МЦК на TELEGRAM Bots API + VK API
 - [WorldPoliticsBot](https://t.me/werdeengod) - Военно-экономическая игра на DISCORD API
 - [NetSPOApi](https://github.com/werdeengod/NetSPOApi) - Библиотека для работы с сетевым городом АО "ИРТех"
 - [pycasino](https://t.me/werdeengod) - Библиотека развлекательных игр
