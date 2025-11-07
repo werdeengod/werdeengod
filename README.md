@@ -6,7 +6,7 @@
 - [FunpayAPI](https://github.com/werdeengod/funpay-api) - Библиотека для работы с биржой игровых ценностей FunPay
 
 ## Мой стек
-- Python, TypeScript + React, PHP, HTML, SCSS
-- Git, Bash, Ubuntu
+- Python, TypeScript, PHP, HTML, SCSS
+- Git, Bash, Ubuntu, Docker
 - PostgreSQL, MongoDB
 - REST API, SOLID, DRY, KISS
