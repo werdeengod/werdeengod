@@ -1,8 +1,7 @@
 ## Мои проекты
-- [UTimetableBot](https://t.me/UaviakTimetableBot) - Бот для Ульяновского Авиационного колледжа
-- [WorldPoliticsBot](https://t.me/eengod) - Военно-экономическая игра
-- [NetSPOApi](https://github.com/werdeengod/NetSPOApi) - Библиотека для работы с сетевым городом АО "ИРТех"
-- [pycasino](https://t.me/werdeengod) - Библиотека развлекательных игр
+- [UTimetableBot](https://github.com/werdeengod/uaviak-parser) - Парсер расписания для Ульяновского Авиационного колледжа
+- [WorldPoliticsBot](https://github.com/werdeengod/world-politics-bot) - Военно-экономическая игра на базе Discord
+- [pycasino](https://t.me/werdeengod) - Библиотека развлекательных казино-игр
 - [FunpayAPI](https://github.com/werdeengod/funpay-api) - Библиотека для работы с биржой игровых ценностей FunPay
 
 ## Мой стек
